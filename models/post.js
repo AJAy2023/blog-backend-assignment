@@ -1,6 +1,6 @@
 const   mongoose = require("mongoose");
 const postschema  = new mongoose.Schema({
-    Externalid:{
+    ExternalId:{
         type:Number,
         required:true,
         unique:true
