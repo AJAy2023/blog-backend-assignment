@@ -16,11 +16,11 @@ MongoDB + Mongoose schema validation
 Environment variables support (dotenv)
 
 ## Tech Stack
-1.Node.js (Runtime)
-2.Express.js (Web framework)
-3.MongoDB + Mongoose (Database + ODM)
-4.Axios (For external API calls)
-5.dotenv (For environment variables)
+1. Node.js (Runtime)
+2. Express.js (Web framework)
+3. MongoDB + Mongoose (Database + ODM)
+4. Axios (For external API calls)
+5. dotenv (For environment variables)
 
 
  ## Screenshots / API Results
